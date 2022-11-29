@@ -838,7 +838,7 @@ body.loaded .overlay_effect:after{
 	float: left;
 	position: relative;
 	overflow: hidden;
-	border-radius: 15%;
+	border-radius: 10%;
 }
 .shane_tm_portfolio .portfolio_list .image{position: relative;}
 .shane_tm_portfolio .portfolio_list .inner img{min-width: 100%;}
@@ -854,7 +854,7 @@ body.loaded .overlay_effect:after{
     clip-path: inset(0 0 0 0);
 	/* border-top-right-radius: 20%;
 	border-top-left-radius: 20%; */
-	border-radius: 15%;
+	border-radius: 10%;
 	
 	-webkit-transition: all .3s ease-in-out;
 	   -moz-transition: all .3s ease-in-out;
